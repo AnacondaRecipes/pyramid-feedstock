@@ -54,7 +54,7 @@ test:
 
 about:
   home: https://trypyramid.com
-  license: LicenseRef-Pylons
+  license: LicenseRef-Pylons AND BSD-like AND ZPL-2.1
   license_family: BSD
   license_file: LICENSE.txt
   summary: The Pyramid Web Framework, a Pylons project
